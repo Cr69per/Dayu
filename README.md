@@ -17,4 +17,4 @@ Example: java -jar Dayu.jar -u www.discuz.net -s https -p 8080
 Example: java -jar Dayu.jar -r d:\ip.txt -m 3                                                                                             
 Example: java -jar Dayu.jar -u www.discuz.net --http-request /robots.txt --http-response Discuz                                           
  
-注：会在D盘下生成日志文件，后续可能修改。目前限于windows主机下运行。
+注：会在D盘下生成日志文件，后续可能修改，目前限于windows主机下运行。
